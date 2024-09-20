@@ -1,4 +1,8 @@
 import './App.css';
+import React from 'react';
+
+
+
 
 function App() {
   return (
@@ -6,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          johnboy <span className="heart">♥️</span> React
         </p>
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
@@ -18,7 +22,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Samantha
           </a>
         </p>
       </header>
